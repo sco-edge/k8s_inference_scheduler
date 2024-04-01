@@ -16,7 +16,9 @@ Jashwant Raj Gunasekaran, Cyan Subhra Mmishra, Prashanth  Thinakaran, Bikash Sha
 
 **INFaaS**
 
-Francisco Romero, Qian Li, Neeraja J. Yadwadkar, and Christos Kozyrakis, "INFaaS: Automated model-less inference serving," in Proc. USENI(X ATC 2021.
+Francisco Romero, Qian Li, Neeraja J. Yadwadkar, and Christos Kozyrakis, "INFaaS: Automated model-less inference serving," in _Proc. USENI(X ATC 2021_.
+
+Neeraja J. Yadwadkar, Francisco Romero, Qian Li, and Christos Kozyrakis, "A case for managed and model-less inference serving," in _Proc. HotOS 2019_.
 
 **Tolerance Tiers**
 
