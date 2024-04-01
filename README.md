@@ -16,6 +16,8 @@ Jashwant Raj Gunasekaran, Cyan Subhra Mmishra, Prashanth  Thinakaran, Bikash Sha
 
 **INFaaS**
 
+Francisco Romero, Qian Li, Neeraja J. Yadwadkar, and Christos Kozyrakis, "INFaaS: Automated model-less inference serving," in Proc. USENI(X ATC 2021.
+
 **Tolerance Tiers**
 
 Matthew Halpern, Behzad Boroujerdian, Todd Mummert, Evelyn Duesterwald, and Vijay Janapa Reddi, "One size does not fit all: Quntifying and exposing the accuracy-latency trade-off in machine learning cloud service APIs via tolerance tiers," in _Proc. IEEE ISPASS 2019_.
