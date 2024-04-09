@@ -36,6 +36,10 @@ Zhuohan Li, Lianmin Zheng, Yinmin Zhong, Vincent Liu, Ying Sheng, Xin Jin, Yanpi
 
 Jinwoo Jeong, Seungsu Baek, and Jeongseob Ahn, "Fast and efficient model serving using multi-GPUs with direct-host-access," in _Proc. EuroSys 2023_.
 
+**Knowledge Distillation**
+
+Geoffrey Hinton, Oriol Vinyals, and Jeff Dean, "Distilling the Lnowledge in a Neural Network," in _Proc. NIPS, Deep Learning Workshop, 2014_.
+
 
 
 
