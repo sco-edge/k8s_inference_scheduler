@@ -38,7 +38,7 @@ Jinwoo Jeong, Seungsu Baek, and Jeongseob Ahn, "Fast and efficient model serving
 
 **Knowledge Distillation**
 
-Geoffrey Hinton, Oriol Vinyals, and Jeff Dean, "Distilling the Lnowledge in a Neural Network," in _Proc. NIPS, Deep Learning Workshop, 2014_.
+Geoffrey Hinton, Oriol Vinyals, and Jeff Dean, "Distilling the Knowledge in a Neural Network," in _Proc. NIPS, Deep Learning Workshop, 2014_.
 
 =implementation links= 
 
