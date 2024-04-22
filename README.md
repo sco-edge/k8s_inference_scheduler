@@ -52,7 +52,7 @@ Qizheng Yang, Tianyi Yang, Mingcan Xiang, Lijun Zhang, Haoliang Wang, Marco Sera
 
 **Proteus**
 
-Sohaib Ahmad, Hui Guan, Brian D. Fiedman, Thomas Williams, Ramesh K. Sitaraman, and Thomas Woo, "Proteus: A High-Thoughput
+Sohaib Ahmad, Hui Guan, Brian D. Fiedman, Thomas Williams, Ramesh K. Sitaraman, and Thomas Woo, "Proteus: A High-Thoughput Inference-Serving System with Accuracy Scaling," in _Proc. ACM ASPLOS 2024_.
 
 
 
