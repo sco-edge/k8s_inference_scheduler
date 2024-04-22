@@ -54,6 +54,9 @@ Qizheng Yang, Tianyi Yang, Mingcan Xiang, Lijun Zhang, Haoliang Wang, Marco Sera
 
 Sohaib Ahmad, Hui Guan, Brian D. Fiedman, Thomas Williams, Ramesh K. Sitaraman, and Thomas Woo, "Proteus: A High-Thoughput Inference-Serving System with Accuracy Scaling," in _Proc. ACM ASPLOS 2024_.
 
+**Model Selection**
+
+Daniel Mendoza, Francisco Romero, and Caroline Trippel, "Model Selection for Latency-Critical Inference Serving," in _Proc. EuroSys 2024_. 
 
 
 
