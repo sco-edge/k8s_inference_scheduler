@@ -50,6 +50,10 @@ https://github.com/DushyantaDhyani/kdtf (tensorflow)
 
 Qizheng Yang, Tianyi Yang, Mingcan Xiang, Lijun Zhang, Haoliang Wang, Marco Serafini, and Hui Guan, "GMorph: Accelerating Multi-DNN Inference via Model Fusion," in _Proc. EuroSys 2024_.
 
+**Proteus**
+
+Sohaib Ahmad, Hui Guan, Brian D. Fiedman, Thomas Williams, Ramesh K. Sitaraman, and Thomas Woo, "Proteus: A High-Thoughput
+
 
 
 
