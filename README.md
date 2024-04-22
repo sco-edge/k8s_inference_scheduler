@@ -46,6 +46,9 @@ https://github.com/peterliht/knowledge-distillation-pytorch (pytorch)
 
 https://github.com/DushyantaDhyani/kdtf (tensorflow)
 
+**GMorph**
+
+Qizheng Yang, Tianyi Yang, Mingcan Xiang, Lijun Zhang, Haoliang Wang, Marco Serafini, and Hui Guan, "GMorph: Accelerating Multi-DNN Inference via Model Fusion," in _Proc. EuroSys 2024_.
 
 
 
