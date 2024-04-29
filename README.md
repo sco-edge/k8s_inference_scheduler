@@ -66,6 +66,10 @@ Peizhen Guo, Bo Hu, and Wenjun Hu, "Sommelier: Curating DNN Models for the Masse
 
 Yunseong Lee, Alberto Scolari, Byung-Gon Chu, Marco Domenico Santambrogio, Markus Weimer, and Matteo Interlandi, "PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems," in _Proc. USENIX OSDI 2018_.
 
+**VELTAIR**
+
+Zihan Liu, Jingwen Leng, Zhihui Zhang, Quan Chen, Chao Li, and Minyi Guo, "VELTAIR: Towards High-Performance Multi-Tenant Deep Learning Services via Adaptive Compliation and Scheduling," in _Proc. ACM ASPLOS 2022_.
+
 
 
 
