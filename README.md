@@ -62,6 +62,9 @@ Daniel Mendoza, Francisco Romero, and Caroline Trippel, "Model Selection for Lat
 
 Peizhen Guo, Bo Hu, and Wenjun Hu, "Sommelier: Curating DNN Models for the Masses," in _Proc. SIGMOD 2022_.
 
+**PRETZEL**
+
+Yunseong Lee, Alberto Scolari, Byung-Gon Chu, Marco Domenico Santambrogio, Markus Weimer, and Matteo Interlandi, "
 
 
 
