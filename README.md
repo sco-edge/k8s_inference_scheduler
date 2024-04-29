@@ -64,7 +64,9 @@ Peizhen Guo, Bo Hu, and Wenjun Hu, "Sommelier: Curating DNN Models for the Masse
 
 **PRETZEL**
 
-Yunseong Lee, Alberto Scolari, Byung-Gon Chu, Marco Domenico Santambrogio, Markus Weimer, and Matteo Interlandi, "
+Yunseong Lee, Alberto Scolari, Byung-Gon Chu, Marco Domenico Santambrogio, Markus Weimer, and Matteo Interlandi, "PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems," in _Proc. USENIX OSDI 2018_.
+
+
 
 
 
