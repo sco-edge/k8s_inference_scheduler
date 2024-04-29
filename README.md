@@ -59,6 +59,7 @@ Sohaib Ahmad, Hui Guan, Brian D. Fiedman, Thomas Williams, Ramesh K. Sitaraman, 
 Daniel Mendoza, Francisco Romero, and Caroline Trippel, "Model Selection for Latency-Critical Inference Serving," in _Proc. EuroSys 2024_. 
 
 **Sommelier**
+
 Peizhen Guo, Bo Hu, and Wenjun Hu, "Sommelier: Curating DNN Models for the Masses," in _Proc. SIGMOD 2022_.
 
 
