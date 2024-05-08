@@ -78,6 +78,10 @@ Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, and Yueting Zhuan
 
 Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, and Karthik Narasimhan, "Tree of Thoughts: Deliberate Problem Solving with Large Language Models," in_ Proc. NeurIPS 2023_.
 
+**Cocktail**
+
+Jashwant Raj Gunasekaran, Cyan Subhra Mmishra, Prashanth  Thinakaran, Bikash Sharma, Mahmut Taylan Kandemir, and Chita R. Das, "Cocktail: A multidimensional optimization for model serving in cloud," in _Proc. USENIX NSDI 2022_.
+
 
 
 
