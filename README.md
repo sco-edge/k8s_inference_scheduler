@@ -70,6 +70,12 @@ Yunseong Lee, Alberto Scolari, Byung-Gon Chu, Marco Domenico Santambrogio, Marku
 
 Zihan Liu, Jingwen Leng, Zhihui Zhang, Quan Chen, Chao Li, and Minyi Guo, "VELTAIR: Towards High-Performance Multi-Tenant Deep Learning Services via Adaptive Compliation and Scheduling," in _Proc. ACM ASPLOS 2022_.
 
+**HuggingGPT**
+
+Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, and Yueting Zhuang, "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face," in _Proc. NeurIPS 2023_.
+
+
+
 
 
 
