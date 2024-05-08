@@ -82,8 +82,9 @@ Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao,
 
 Jashwant Raj Gunasekaran, Cyan Subhra Mmishra, Prashanth  Thinakaran, Bikash Sharma, Mahmut Taylan Kandemir, and Chita R. Das, "Cocktail: A multidimensional optimization for model serving in cloud," in _Proc. USENIX NSDI 2022_.
 
+**Self Consistency with Chain of Thought**
 
-
+X. Wnag, J. Wei, D. Schuurmans, Q. Le, E. Chi, and D. Zhou, "Self-consistency improves chain of thought reasoning in language models," _arXiv preprint arXiv:2203.11171_, 2022.
 
 
 
