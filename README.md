@@ -86,6 +86,12 @@ Jashwant Raj Gunasekaran, Cyan Subhra Mmishra, Prashanth  Thinakaran, Bikash Sha
 
 X. Wnag, J. Wei, D. Schuurmans, Q. Le, E. Chi, and D. Zhou, "Self-consistency improves chain of thought reasoning in language models," _arXiv preprint arXiv:2203.11171_, 2022.
 
+**MOSEL**
+
+Bodun Hu, Le Xu, Jeongyoon Moon, Neeraja J. Yadwadkar, and Aditya Akella, "MOSEL: Inference Serving Using Dynamic Modality Selection," arXiv preprint arXiv:2310.18481, 2023.
+
+
+
 
 
 
