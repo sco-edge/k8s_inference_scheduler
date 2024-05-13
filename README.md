@@ -95,7 +95,7 @@ Bodun Hu, Le Xu, Jeongyoon Moon, Neeraja J. Yadwadkar, and Aditya Akella, "MOSEL
 Zineng Tang, Jaemin Cho, Yixin Nie, and Mohit Bansal, "TVLT: Textless vision-language transformer," in _Proc. NeurIPS 2022_.
 
 
-
+Tianxing Li, Jin Huang, Erik Risinger, and Deepak Ganesan, "Low-latency speculative inference on distributed multi-modal data streams," in _Proc. ACM MobiSys 2021_.
 
 
 
