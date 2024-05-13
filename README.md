@@ -88,8 +88,11 @@ X. Wnag, J. Wei, D. Schuurmans, Q. Le, E. Chi, and D. Zhou, "Self-consistency im
 
 **MOSEL**
 
-Bodun Hu, Le Xu, Jeongyoon Moon, Neeraja J. Yadwadkar, and Aditya Akella, "MOSEL: Inference Serving Using Dynamic Modality Selection," arXiv preprint arXiv:2310.18481, 2023.
+Bodun Hu, Le Xu, Jeongyoon Moon, Neeraja J. Yadwadkar, and Aditya Akella, "MOSEL: Inference Serving Using Dynamic Modality Selection," _arXiv preprint arXiv:2310.18481_, 2023.
 
+**TVLT**
+
+Zineng Tang, Jaemin Cho, Yixin Nie, and Mohit Bansal, "TVLT: Textless vision-language transformer," in _Proc. NeurIPS 2022_.
 
 
 
