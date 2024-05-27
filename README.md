@@ -106,6 +106,10 @@ Jinyu Chen, Wenchao Xu, Zicong Hong, Song Guo, Haozhao Wang, Jie Zhang, and Deze
 
 D. Bolya, C.-Y. Fu, X. Dai, P. Zhang, C. Feichtenhofer, and J. Hoffman, "Token Merging: Your ViT but Faster," in _Proc. ICLR 2023_.
 
+**Visual prompt tuning**
+
+M. Jia, L. Tang, B.-C. Chen, C. Cardie, S. Belongie, B. Hariharan, and S.-N. Lim, "Visual prompt tuning," in _Proc. ECCV 2022_.
+
 
 
 
