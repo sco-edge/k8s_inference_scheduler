@@ -102,6 +102,10 @@ Tianxing Li, Jin Huang, Erik Risinger, and Deepak Ganesan, "Low-latency speculat
 
 Jinyu Chen, Wenchao Xu, Zicong Hong, Song Guo, Haozhao Wang, Jie Zhang, and Deze Zeng, "OTAS: An Elastic Transformer Serving via Token Adaptation," in _Proc. IEEE INFOCOM 2024_.
 
+**Token Merging**
+
+D. Bolya, C.-Y. Fu, X. Dai, P. Zhang, C. Feichtenhofer, and J. Hoffman, "Token Merging: Your ViT but Faster," in _Proc. ICLR 2023_.
+
 
 
 
