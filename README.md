@@ -110,8 +110,9 @@ D. Bolya, C.-Y. Fu, X. Dai, P. Zhang, C. Feichtenhofer, and J. Hoffman, "Token M
 
 M. Jia, L. Tang, B.-C. Chen, C. Cardie, S. Belongie, B. Hariharan, and S.-N. Lim, "Visual prompt tuning," in _Proc. ECCV 2022_.
 
+**Cur0CoEdge**
 
-
+Y. Zhao, C. Qiu, X. Shi, X. Wang, D. Niyato, and V. Leung, 
 
 
 
