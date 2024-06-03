@@ -114,6 +114,7 @@ M. Jia, L. Tang, B.-C. Chen, C. Cardie, S. Belongie, B. Hariharan, and S.-N. Lim
 
 Y. Zhao, C. Qiu, X. Shi, X. Wang, D. Niyato, and V. Leung, "Cur-CoEdge: Curiosity-Driven Collaborative Request Scheduling in Edge-Cloud Systems," in _Proc. IEEE INFOCOM 2024_.
 
+**Approximate Caching**
 
 
 
