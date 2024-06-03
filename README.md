@@ -118,6 +118,12 @@ Y. Zhao, C. Qiu, X. Shi, X. Wang, D. Niyato, and V. Leung, "Cur-CoEdge: Curiosit
 
 Shubham Agarwal, Subrata Mitra, Sarthak Chakraborty, Srikrishna Karanam, Koyel Mukherjee, and Shiv Kumar Saini, "Approximate Caching for Efficiently Serving Text-to-Image Diffusion Models," in _Proc. USENIX NSDI 2024_. 
 
+**GPT cache**
+
+zilliztech/gptcache: Semantic cache for llms. fully integrated with langchian and llama_index. https://github.com/zilliztech/GPTCache
+
+
+
 
 
 
