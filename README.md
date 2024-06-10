@@ -122,7 +122,7 @@ Shubham Agarwal, Subrata Mitra, Sarthak Chakraborty, Srikrishna Karanam, Koyel M
 
 zilliztech/gptcache: Semantic cache for llms. fully integrated with langchian and llama_index. https://github.com/zilliztech/GPTCache
 
-**Diffusion  model survey**
+**Diffusion model survey**
 
 Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, and In So Kweon, "Text-to-image diffusion model in generative AI: A survey," _arXiv preprint arXiv:2303.07909_, 2023.
 
@@ -138,8 +138,13 @@ Jinyu Chen, Wenchao Xu, Zicong Hong, Song Guo, Haozhao Wang, Jie Zhang, and Deze
 
 Zhuohan Li, Lianmin Zheng, Yinmin Zhong, Vincent Liu, Ying Sheng, Xin Jin, Yanping Huang, Zhifeng Chen, Hao Zhang, Joseph E. Gonzalez and Ion Storica, "AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving," in _Proc. USENIX OSDI 2023_.
 
-**
+**INFaaS**
 
+Francisco Romero, Qian Li, Neeraja J. Yadwadkar, and Christos Lozyrakis, "INFaaS: Automated Model-less Inference Serving," in _Proc. USENIX ATC 2021_.
+
+**EuroSys- Model Selection**
+
+Daniel Mendoza, Francisco Romero, and Caroline Trippel, "Model Selection for Latency-Critical Inference Serving," in _Proc. ACM EuroSys 2024_.
 
 
 
