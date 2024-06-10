@@ -126,6 +126,14 @@ zilliztech/gptcache: Semantic cache for llms. fully integrated with langchian an
 
 Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, and In So Kweon, "Text-to-image diffusion model in generative AI: A survey," _arXiv preprint arXiv:2303.07909_, 2023.
 
+**PetS**
+
+Zhe Zhou, Xuechao Wei, Jiejing Zhang, and Guangyu Sun, "PetS: A Unified Framework for Parameter-Efficient Transformers Serving," in _Proc. USENIX ATC 2022_.
+
+**
+
+
+
 
 
 
