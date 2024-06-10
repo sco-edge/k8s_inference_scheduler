@@ -130,7 +130,9 @@ Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, and In So Kweon, "Text-to-imag
 
 Zhe Zhou, Xuechao Wei, Jiejing Zhang, and Guangyu Sun, "PetS: A Unified Framework for Parameter-Efficient Transformers Serving," in _Proc. USENIX ATC 2022_.
 
-**
+**AlpaServe**
+
+Zhuohan Li, Lianmin Zheng, Yinmin Zhong, Vincent Liu, Ying Sheng, Xin Jin, Yanping Huang, Zhifeng Chen, Hao Zhang, Joseph E. Gonzalez and Ion Storica, "AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving," in _Proc. USENIX OSDI 2023_.
 
 
 
