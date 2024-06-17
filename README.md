@@ -146,6 +146,11 @@ Francisco Romero, Qian Li, Neeraja J. Yadwadkar, and Christos Lozyrakis, "INFaaS
 
 Daniel Mendoza, Francisco Romero, and Caroline Trippel, "Model Selection for Latency-Critical Inference Serving," in _Proc. ACM EuroSys 2024_.
 
+**CoreKube**
+
+Andrew E. Ferguson, Jon Larrea, and Mahesh K. Marina, "CoreKube: An Efficient, Autoscaling and Resilient Mobile Core System," in Proc. 
+
+
 
 
 
