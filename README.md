@@ -152,7 +152,7 @@ Andrew E. Ferguson, Jon Larrea, and Mahesh K. Marina, "CoreKube: An Efficient, A
 
 **A Survey of AIGC Services**
 
-
+Minrui Xu, Hongyang DU, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Abbas Jamalipour, Dong In Kim, Xuemin (Sherman) Shen, Victor C. M. Leung, and H. Vincent Poor, "Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services," 
 
 
 
