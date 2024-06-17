@@ -148,11 +148,11 @@ Daniel Mendoza, Francisco Romero, and Caroline Trippel, "Model Selection for Lat
 
 **CoreKube**
 
-Andrew E. Ferguson, Jon Larrea, and Mahesh K. Marina, "CoreKube: An Efficient, Autoscaling and Resilient Mobile Core System," in Proc. ACM MobiCom 2023.
+Andrew E. Ferguson, Jon Larrea, and Mahesh K. Marina, "CoreKube: An Efficient, Autoscaling and Resilient Mobile Core System," in _Proc. ACM MobiCom 2023_.
 
 **A Survey of AIGC Services**
 
-Minrui Xu, Hongyang DU, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Abbas Jamalipour, Dong In Kim, Xuemin (Sherman) Shen, Victor C. M. Leung, and H. Vincent Poor, "Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services," 
+Minrui Xu, Hongyang DU, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Abbas Jamalipour, Dong In Kim, Xuemin (Sherman) Shen, Victor C. M. Leung, and H. Vincent Poor, "Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services," arXiv:2303.16129, Oct. 2023.
 
 
 
