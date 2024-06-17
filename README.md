@@ -150,7 +150,9 @@ Daniel Mendoza, Francisco Romero, and Caroline Trippel, "Model Selection for Lat
 
 Andrew E. Ferguson, Jon Larrea, and Mahesh K. Marina, "CoreKube: An Efficient, Autoscaling and Resilient Mobile Core System," in Proc. ACM MobiCom 2023.
 
-**
+**A Survey of AIGC Services**
+
+
 
 
 
