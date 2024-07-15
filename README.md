@@ -160,7 +160,7 @@ Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik Kingma, Stefano Ermon, Jonathan
 
 **Fast Sampling of Diffusion Models**
 
-Hongkai Zheng, Weilie Nie, Arash Vahdat, Kamyar Azizzadenesheli, and Anima Anandkummar, "Fast Sampling of Diffusion Models via Operator Learning," in _Proc. ICML 2023_.
+Hongkai Zheng, Weilie Nie, Arash Vahdat, Kamyar Azizzadenesheli, and Anima Anandkummar, "Fast Sampling of Diffusion Models via Operator Learning," in _Proc. ICML 2023_. 
 
 
 
