@@ -156,7 +156,7 @@ Minrui Xu, Hongyang DU, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu 
 
 **Distillation of Diffusion Models**
 
-Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik Kingma, Stefano Ermon, Jonathan Ho, and Time Salimans, "On Distillation of Guided Diffusion Models," in _Proc. IEEE/CVF CVPR 2023_.
+Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik Kingma, Stefano Ermon, Jonathan Ho, and Time Salimans, "On Distillation of Guided Diffusion Models," in _Proc. IEEE/CVF CVPR 2023_. 
 
 **Fast Sampling of Diffusion Models**
 
