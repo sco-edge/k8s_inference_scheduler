@@ -154,6 +154,11 @@ Andrew E. Ferguson, Jon Larrea, and Mahesh K. Marina, "CoreKube: An Efficient, A
 
 Minrui Xu, Hongyang DU, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Abbas Jamalipour, Dong In Kim, Xuemin (Sherman) Shen, Victor C. M. Leung, and H. Vincent Poor, "Unleashing the Power of Edge-Cloud Generative AI in Mobile Networks: A Survey of AIGC Services," arXiv:2303.16129, Oct. 2023.
 
+**Distillation of Diffusion Models**
+
+Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik Kingma, Stefano Ermon, Jonathan Ho, and Time Salimans, "On Distillation of Guided Diffusion Models," in _Proc. IEEE/CVF CVPR 2023_.
+
+**
 
 
 
