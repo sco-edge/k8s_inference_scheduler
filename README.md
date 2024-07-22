@@ -162,6 +162,12 @@ Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik Kingma, Stefano Ermon, Jonathan
 
 Hongkai Zheng, Weilie Nie, Arash Vahdat, Kamyar Azizzadenesheli, and Anima Anandkummar, "Fast Sampling of Diffusion Models via Operator Learning," in _Proc. ICML 2023_. 
 
+**Subgraph Inference**
+
+Payman Behnam, Jianming Tong, Alind Khare, Yangyu Chen, Yue Pan, Pranav Gadikar, Abhimanyu Rajeshkumar Bammbhaniya, Tushar Krishna, and Alexey Tumanov, "Subgraph Stationary Hardware-Software Inference Co-Design," in Proc. the MLSys Conference, 2023.
+
+
+
 
 
 
