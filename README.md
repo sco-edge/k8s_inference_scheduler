@@ -8,7 +8,7 @@ Danieal Crankshaw, Xin Wang, Guilio Zhou, Michael J. Franklin, Joseph E. Gonzale
 
 **Model-Switching** 
 
-Jeff Zhang, Sameh Elnikety, Shuayb Zarar, Atul Gupta, and Siddharth Garg, "Model-switching: Dealing with fluctuating workloads in machine-learning-as-a-service systems," in _Proc. HotCloud 2020_.
+Jeff Zhang, Sameh Elnikety, Shuayb Zarar, Atul Gupta, and Siddharth Garg, "Model-switching: Dealing with fluctuating workloads in machine-learning-as-a-service systems," in _Proc. HotCloud 2020_.  
 
 **Cocktail**
 
