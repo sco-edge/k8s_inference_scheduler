@@ -164,9 +164,11 @@ Hongkai Zheng, Weilie Nie, Arash Vahdat, Kamyar Azizzadenesheli, and Anima Anand
 
 **Subgraph Inference**
 
-Payman Behnam, Jianming Tong, Alind Khare, Yangyu Chen, Yue Pan, Pranav Gadikar, Abhimanyu Rajeshkumar Bammbhaniya, Tushar Krishna, and Alexey Tumanov, "Subgraph Stationary Hardware-Software Inference Co-Design," in Proc. the MLSys Conference, 2023.
+Payman Behnam, Jianming Tong, Alind Khare, Yangyu Chen, Yue Pan, Pranav Gadikar, Abhimanyu Rajeshkumar Bammbhaniya, Tushar Krishna, and Alexey Tumanov, "Subgraph Stationary Hardware-Software Inference Co-Design," in _Proc. the MLSys Conference 2023_.
 
+**NAS for Video Diffusion Model**
 
+Zhengang Li, Yan Kang, Yuchen Liu, Difan Liu, Tobias Hinz, Feng Liu, and Yanzhi Wang, "SNED: Superposition Network Architecture Search for Efficient Video Diffusion Model," in _Proc. IEEE/CVF CVPR 2024_.
 
 
 
