@@ -170,6 +170,10 @@ Payman Behnam, Jianming Tong, Alind Khare, Yangyu Chen, Yue Pan, Pranav Gadikar,
 
 Zhengang Li, Yan Kang, Yuchen Liu, Difan Liu, Tobias Hinz, Feng Liu, and Yanzhi Wang, "SNED: Superposition Network Architecture Search for Efficient Video Diffusion Model," in _Proc. IEEE/CVF CVPR 2024_.
 
+**A Survey of Diffusion Models**
+
+Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Wentao Zhang, Bin Cui, and Ming-Hsuan Yang, "Diffusion Models: A comprehensive Survey of Methods and Applications," 
+
 
 
 
