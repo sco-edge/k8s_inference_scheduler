@@ -172,7 +172,9 @@ Zhengang Li, Yan Kang, Yuchen Liu, Difan Liu, Tobias Hinz, Feng Liu, and Yanzhi 
 
 **A Survey of Diffusion Models**
 
-Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Wentao Zhang, Bin Cui, and Ming-Hsuan Yang, "Diffusion Models: A comprehensive Survey of Methods and Applications," ACM Computing Surveys, Vol. 56, No. 4, Article 105, November 2023.
+Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Wentao Zhang, Bin Cui, and Ming-Hsuan Yang, "Diffusion Models: A comprehensive Survey of Methods and Applications," _ACM Computing Surveys_, Vol. 56, No. 4, Article 105, November 2023.
+
+
 
 
 
