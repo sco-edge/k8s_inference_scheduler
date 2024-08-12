@@ -174,6 +174,12 @@ Zhengang Li, Yan Kang, Yuchen Liu, Difan Liu, Tobias Hinz, Feng Liu, and Yanzhi 
 
 Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Wentao Zhang, Bin Cui, and Ming-Hsuan Yang, "Diffusion Models: A comprehensive Survey of Methods and Applications," _ACM Computing Surveys_, Vol. 56, No. 4, Article 105, November 2023.
 
+**Collaborative Distributed Diffusion**
+
+Hongyang Du, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin Shen, and H. Vincent Poor, "Exploring Collaborative Distributed Diffusion-based AI-Generated Content in Wireless Networks," IEEE Network, May/June 2024.
+
+
+
 
 
 
