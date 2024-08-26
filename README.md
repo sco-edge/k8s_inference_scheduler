@@ -186,7 +186,10 @@ Hongyang Du, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim,
 
 ﻿Shuai Yang, Yukang Chen, Luozhou Wang, Shu Liu, and Yingcong Chen, “Denoising Diffusion Step-Aware Models,” in _Proc. of ICLR_, May 2024.
 
- 
+**DDIM**
+
+Jiaming Song, Chenlin Meng, and Stefano Ermon, "Denoising Diffusion Implicit Models," in _Proc. ICLR 2021_.
+
 
 
 
