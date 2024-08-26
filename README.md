@@ -178,6 +178,11 @@ Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Wentao 
 
 Hongyang Du, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin Shen, and H. Vincent Poor, "Exploring Collaborative Distributed Diffusion-based AI-Generated Content in Wireless Networks," IEEE Network, May/June 2024.
 
+**AutoDiffusion**
+
+﻿Lijiang Li, Huixia Li, Xiawu Zheng, Jie Wu, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan, Fei Chao, and Rongrong Ji, “AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration,” in _Proc. ICCV_, October 2023.
+
+
 
 
 
