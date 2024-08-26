@@ -182,6 +182,13 @@ Hongyang Du, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim,
 
 ﻿Lijiang Li, Huixia Li, Xiawu Zheng, Jie Wu, Xuefeng Xiao, Rui Wang, Min Zheng, Xin Pan, Fei Chao, and Rongrong Ji, “AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration,” in _Proc. ICCV_, October 2023.
 
+**Diffusion Step-Aware Models**
+
+﻿Shuai Yang, Yukang Chen, Luozhou Wang, Shu Liu, and Yingcong Chen, “Denoising Diffusion Step-Aware Models,” in _Proc. of ICLR_, May 2024.
+
+ 
+
+
 
 
 
