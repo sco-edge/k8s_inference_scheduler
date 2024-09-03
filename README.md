@@ -190,6 +190,9 @@ Hongyang Du, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim,
 
 Jiaming Song, Chenlin Meng, and Stefano Ermon, "Denoising Diffusion Implicit Models," in _Proc. ICLR 2021_.
 
+**AIGC in Edge**
+
+Hongyang Du, Zonghang Li, Dusit Niyato, Jiawen KAng, Zehui Xiong, Huawei Huang, and Shiwen Mao, "Diffusion-Based Reinforcement Learning for Edge-Enabled AI-Generated Content Services," _IEEE TMC_, September 2024.
 
 
 
