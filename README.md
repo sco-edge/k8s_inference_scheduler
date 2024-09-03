@@ -7,7 +7,7 @@ reference papers
 Danieal Crankshaw, Xin Wang, Guilio Zhou, Michael J. Franklin, Joseph E. Gonzalez, and Ion Stoica, "Clipper: A low-latency online prediction serving system," in _Proc. USENIX NSDI 2017_. 
  
 **Model-Switching** 
-
+ 
 Jeff Zhang, Sameh Elnikety, Shuayb Zarar, Atul Gupta, and Siddharth Garg, "Model-switching: Dealing with fluctuating workloads in machine-learning-as-a-service systems," in _Proc. HotCloud 2020_.    
 
 **Cocktail**
