@@ -1,6 +1,6 @@
 # k8s_inference_scheduler     
      
-reference papers  
+reference papers   
            
 **Clipper**              
       
