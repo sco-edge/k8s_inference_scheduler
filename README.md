@@ -4,7 +4,7 @@ reference papers
                 
 **Clipper**                      
         
-Danieal Crankshaw, Xin Wang, Guilio Zhou, Michael J. Franklin, Joseph E. Gonzalez, and Ion Stoica, "Clipper: A low-latency online prediction serving system," in _Proc. USENIX NSDI 2017_. 
+Danieal Crankshaw, Xin Wang, Guilio Zhou, Michael J. Franklin, Joseph E. Gonzalez, and Ion Stoica, "Clipper: A low-latency online prediction serving system," in _Proc. USENIX NSDI 2017_.  
  
 **Model-Switching**  
  
