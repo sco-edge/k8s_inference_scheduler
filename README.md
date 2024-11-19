@@ -194,8 +194,9 @@ Jiaming Song, Chenlin Meng, and Stefano Ermon, "Denoising Diffusion Implicit Mod
 
 Hongyang Du, Zonghang Li, Dusit Niyato, Jiawen KAng, Zehui Xiong, Huawei Huang, and Shiwen Mao, "Diffusion-Based Reinforcement Learning for Edge-Enabled AI-Generated Content Services," _IEEE TMC_, September 2024.
 
+**Stable Diffusion**
 
-
+Robin Rombach, Adreas Blattmann, Domikik Lorenz, Patrick Esser, and Bjorn Ommer, “High-Resolution Image Synthesis with Latent Diffusion Models,” in _Proc. IEEE/CVF CVPR_, June 2022.
 
 
 
