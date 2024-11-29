@@ -130,10 +130,6 @@ Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, and In So Kweon, "Text-to-imag
 
 Zhe Zhou, Xuechao Wei, Jiejing Zhang, and Guangyu Sun, "PetS: A Unified Framework for Parameter-Efficient Transformers Serving," in _Proc. USENIX ATC 2022_.
 
-**INFaaS**
-
-Francisco Romero, Qian Li, Neeraja J. Yadwadkar, and Christos Lozyrakis, "INFaaS: Automated Model-less Inference Serving," in _Proc. USENIX ATC 2021_.
-
 **EuroSys- Model Selection**
 
 Daniel Mendoza, Francisco Romero, and Caroline Trippel, "Model Selection for Latency-Critical Inference Serving," in _Proc. ACM EuroSys 2024_.
