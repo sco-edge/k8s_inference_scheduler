@@ -186,6 +186,9 @@ Hongyang Du, Zonghang Li, Dusit Niyato, Jiawen KAng, Zehui Xiong, Huawei Huang, 
 
 Robin Rombach, Adreas Blattmann, Domikik Lorenz, Patrick Esser, and Bjorn Ommer, “High-Resolution Image Synthesis with Latent Diffusion Models,” in _Proc. IEEE/CVF CVPR_, June 2022.
 
+**COCO Dataset 2014**
+
+Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollar, and C. Lawrence Zitnick, “Microsoft COCO: Common Objects in Context,” in _Proc. of ECCV_, September 2014.
 
 
 
