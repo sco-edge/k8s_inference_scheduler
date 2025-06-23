@@ -190,6 +190,10 @@ Robin Rombach, Adreas Blattmann, Domikik Lorenz, Patrick Esser, and Bjorn Ommer,
 
 Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollar, and C. Lawrence Zitnick, “Microsoft COCO: Common Objects in Context,” in _Proc. of ECCV_, September 2014.
 
+**SuperServe**
+
+Alind Khare and Dhruv Garg, Sukrit Kalra, Snigdha Grandhi, Ion Stoica, Alexey Tumanov, "SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads," in _Proc. USENIX NSDI 2025_.
+
 
 
 
